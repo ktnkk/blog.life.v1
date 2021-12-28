@@ -91,6 +91,8 @@ published: true
 - [コンピュータシステムの理論と実装 ―モダンなコンピュータの作り方](https://www.amazon.co.jp/dp/4873117127)
 - [入門 監視 ―モダンなモニタリングのためのデザインパターン](https://www.amazon.co.jp/dp/4873118646)
 - [[改訂第 3 版]シェルスクリプト基本リファレンス ──#!/bin/sh で、ここまでできる](https://www.amazon.co.jp/dp/4774186945)
+- [ハッカーの学校 個人情報調査の教科書](https://www.amazon.co.jp/dp/4781702139)
+- [ハッカーの学校 鍵開けの教科書](https://www.amazon.co.jp/dp/4781702376)
 
 ### 技術以外
 
